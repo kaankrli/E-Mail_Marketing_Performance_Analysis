@@ -1,4 +1,4 @@
-# E-Mail_Marketing_Performance_Analysis
+# E-Mail Marketing Performance Analysis
 Modern marketing teams rely heavily on email campaigns to reach customers —
 but which subject lines, keywords, and variants actually drive results?
 
